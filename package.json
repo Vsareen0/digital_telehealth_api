@@ -1,0 +1,29 @@
+{
+  "name": "digital_telehealth_api",
+  "version": "1.0.0",
+  "description": "- [] Doctors",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vsareen0/digital_telehealth_api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vsareen0/digital_telehealth_api/issues"
+  },
+  "homepage": "https://github.com/Vsareen0/digital_telehealth_api#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "momentjs": "^2.0.0",
+    "mongoose": "^5.11.15"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
